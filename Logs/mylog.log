@@ -1,0 +1,242 @@
+[DEBUG] 2023-11-14 20:51:23.080 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.087 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.094 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2023-11-14 20:51:23.260 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 20:51:23.264 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 20:51:23.265 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 20:51:23.265 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 20:51:23.268 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 20:51:23.269 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 20:51:23.283 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 20:51:23.284 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 20:51:23.291 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 20:51:23.292 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 20:51:23.294 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 20:51:23.294 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 20:51:23.296 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 20:51:23.297 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 20:51:23.355 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 20:51:23.357 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2023-11-14 20:51:23.446 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2023-11-14 20:51:23.454 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2023-11-14 20:51:23.457 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2023-11-14 20:51:23.460 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2023-11-14 20:51:23.466 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2023-11-14 20:51:23.468 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2023-11-14 20:51:23.470 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2023-11-14 20:51:23.472 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2023-11-14 20:51:23.476 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2023-11-14 20:51:23.479 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2023-11-14 20:51:23.483 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2023-11-14 20:51:23.485 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2023-11-14 20:51:23.488 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2023-11-14 20:51:23.492 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2023-11-14 20:51:23.498 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2023-11-14 20:51:23.508 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[TRACE] 2023-11-14 20:51:23.541 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2023-11-14 20:51:23.548 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2023-11-14 20:51:23.555 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2023-11-14 20:51:23.558 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2023-11-14 20:51:23.560 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2023-11-14 20:51:23.563 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2023-11-14 20:51:23.571 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2023-11-14 20:51:23.580 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2023-11-14 20:51:23.584 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2023-11-14 20:51:23.591 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2023-11-14 20:51:23.598 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2023-11-14 20:51:23.611 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2023-11-14 20:51:23.617 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2023-11-14 20:51:23.652 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2023-11-14 20:51:23.654 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2023-11-14 20:51:23.661 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2023-11-14 20:51:23.672 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.673 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.674 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:23.719 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.721 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.723 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2023-11-14 20:51:23.759 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[TRACE] 2023-11-14 20:51:23.780 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2023-11-14 20:51:23.784 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2023-11-14 20:51:23.787 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2023-11-14 20:51:23.808 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.812 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.815 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:23.865 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.867 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.868 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:23.905 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.906 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.907 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:23.943 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.945 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.946 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:23.984 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:23.986 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:23.987 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.024 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.026 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.028 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.070 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.072 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.074 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.107 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.108 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.109 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.145 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.146 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.147 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.168 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.170 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.172 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.204 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.205 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.206 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.235 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.237 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.238 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.269 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.270 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.271 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.307 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.308 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.309 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.342 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.343 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.344 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.369 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.370 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.372 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.403 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.405 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.406 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.429 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.430 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.431 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.456 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.457 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.458 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 20:51:24.479 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 20:51:24.480 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 20:51:24.481 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:41.786 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:41.793 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:41.801 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2023-11-14 21:29:41.998 [main] XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 21:29:42.003 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 21:29:42.004 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 21:29:42.004 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 21:29:42.005 [main] XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 21:29:42.005 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 21:29:42.023 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2023-11-14 21:29:42.024 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 21:29:42.033 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2023-11-14 21:29:42.033 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 21:29:42.035 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2023-11-14 21:29:42.036 [main] XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 21:29:42.038 [main] XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2023-11-14 21:29:42.039 [main] XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 21:29:42.121 [main] XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2023-11-14 21:29:42.123 [main] XBeanDebug - Resolving type for handle themefd26doctype
+[TRACE] 2023-11-14 21:29:42.201 [main] XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2023-11-14 21:29:42.211 [main] XBeanDebug - Resolving type for handle ctstylesheet4257type
+[TRACE] 2023-11-14 21:29:42.215 [main] XBeanDebug - Resolving type for handle ctfonts6623type
+[TRACE] 2023-11-14 21:29:42.217 [main] XBeanDebug - Resolving type for handle ctfont14d8type
+[TRACE] 2023-11-14 21:29:42.223 [main] XBeanDebug - Resolving type for handle ctfills2c6ftype
+[TRACE] 2023-11-14 21:29:42.225 [main] XBeanDebug - Resolving type for handle ctfill550ctype
+[TRACE] 2023-11-14 21:29:42.227 [main] XBeanDebug - Resolving type for handle ctborders0d66type
+[TRACE] 2023-11-14 21:29:42.230 [main] XBeanDebug - Resolving type for handle ctborderf935type
+[TRACE] 2023-11-14 21:29:42.233 [main] XBeanDebug - Resolving type for handle ctcellxfs1322type
+[TRACE] 2023-11-14 21:29:42.236 [main] XBeanDebug - Resolving type for handle ctxf97f7type
+[TRACE] 2023-11-14 21:29:42.239 [main] XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2023-11-14 21:29:42.242 [main] XBeanDebug - Resolving type for handle ctdxfsb26atype
+[TRACE] 2023-11-14 21:29:42.246 [main] XBeanDebug - Resolving type for handle cttablestyles872ftype
+[TRACE] 2023-11-14 21:29:42.251 [main] XBeanDebug - Resolving type for handle sstf81fdoctype
+[TRACE] 2023-11-14 21:29:42.257 [main] XBeanDebug - Resolving type for handle ctsst44f3type
+[TRACE] 2023-11-14 21:29:42.267 [main] XBeanDebug - Resolving type for handle ctrsta472type
+[TRACE] 2023-11-14 21:29:42.305 [main] XBeanDebug - Resolving type for handle workbookec17doctype
+[TRACE] 2023-11-14 21:29:42.313 [main] XBeanDebug - Resolving type for handle ctworkbook83c3type
+[TRACE] 2023-11-14 21:29:42.319 [main] XBeanDebug - Resolving type for handle ctsheets49fdtype
+[TRACE] 2023-11-14 21:29:42.322 [main] XBeanDebug - Resolving type for handle ctsheet4dbetype
+[TRACE] 2023-11-14 21:29:42.324 [main] XBeanDebug - Resolving type for handle strelationshipid1e94type
+[TRACE] 2023-11-14 21:29:42.327 [main] XBeanDebug - Resolving type for handle worksheetf539doctype
+[TRACE] 2023-11-14 21:29:42.334 [main] XBeanDebug - Resolving type for handle ctworksheet530dtype
+[TRACE] 2023-11-14 21:29:42.344 [main] XBeanDebug - Resolving type for handle ctsheetdata8408type
+[TRACE] 2023-11-14 21:29:42.347 [main] XBeanDebug - Resolving type for handle ctrowdd39type
+[TRACE] 2023-11-14 21:29:42.353 [main] XBeanDebug - Resolving type for handle ctcell842btype
+[TRACE] 2023-11-14 21:29:42.361 [main] XBeanDebug - Resolving type for handle stcellrefe4e0type
+[TRACE] 2023-11-14 21:29:42.375 [main] XBeanDebug - Resolving type for handle ctcols627ctype
+[TRACE] 2023-11-14 21:29:42.383 [main] XBeanDebug - Resolving type for handle ctcola95ftype
+[TRACE] 2023-11-14 21:29:42.411 [main] XBeanDebug - Resolving type for handle cthyperlinks6416type
+[TRACE] 2023-11-14 21:29:42.414 [main] XBeanDebug - Resolving type for handle cthyperlink0c85type
+[TRACE] 2023-11-14 21:29:42.421 [main] XBeanDebug - Resolving type for handle stxstringf179type
+[DEBUG] 2023-11-14 21:29:42.440 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.442 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.445 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.493 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.495 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.497 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[TRACE] 2023-11-14 21:29:42.531 [main] XBeanDebug - Resolving type for handle stcelltypebf95type
+[TRACE] 2023-11-14 21:29:42.546 [main] XBeanDebug - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2023-11-14 21:29:42.551 [main] XBeanDebug - Resolving type for handle stnumfmtid76fbtype
+[TRACE] 2023-11-14 21:29:42.554 [main] XBeanDebug - Resolving type for handle ctworkbookpr03a5type
+[DEBUG] 2023-11-14 21:29:42.577 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.579 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.582 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.641 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.642 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.644 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.684 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.685 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.686 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.729 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.732 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.733 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.778 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.780 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.781 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.817 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.818 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.821 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.847 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.848 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.848 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.886 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.888 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.889 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.914 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.915 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.916 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.953 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.956 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.956 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:42.987 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:42.988 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:42.989 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.018 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.019 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.020 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.052 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.053 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.054 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.092 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.093 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.094 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.123 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.124 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.125 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.143 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.144 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.145 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.174 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.176 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.177 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.207 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.209 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.210 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.233 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.233 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.234 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2023-11-14 21:29:43.256 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-14 21:29:43.258 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-14 21:29:43.259 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
